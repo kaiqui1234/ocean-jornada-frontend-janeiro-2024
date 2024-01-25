@@ -5,10 +5,10 @@ function App(){
     <>
       <div className='card'>
         <h2>Rick Sanchez</h2>
-        <img src="https://tse2.mm.bing.net/th?id=OIP.SzYF5cYB1_O-5ocN-DfhbQHaJb&pid=Api&P=0&h=180"></img>
-       
+        <img src="https://rickandmortyapi.com/api/character/avatar/1.jpeg"></img>
+        
       </div>
-      
+     
     </>
   )
 }
