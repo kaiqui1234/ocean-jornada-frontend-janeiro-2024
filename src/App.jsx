@@ -3,8 +3,16 @@ import './App.css'
 import Card from './components/Card/Card'
 function App(){
   const item1= {
-    name:'Rick Sanchez',
+    name:'Morty Smith',
     image: 'https://rickandmortyapi.com/api/character/avatar/1.jpeg'
+  }
+  const item2= {
+    name:'Rick Sanchez',
+    image: 'https://rickandmortyapi.com/api/character/avatar/2.jpeg'
+  }
+  const item3= {
+    name:'Sam Smith',
+    image: 'https://rickandmortyapi.com/api/character/avatar/3.jpeg'
   }
   return (
     <>
